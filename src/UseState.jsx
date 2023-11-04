@@ -33,7 +33,6 @@ function UseState() {
 			</p>
 			<button onClick={increment}>Increment</button>
 			{/* <button onClick={incrementState}>Increment State</button> */}
-			<hr />
 		</>
 	)
 }
